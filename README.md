@@ -1,14 +1,12 @@
 # Hi there, I'm Yiğit Altun 👋
 
-I am a Mechatronics Engineer graduated from Bursa Technical University. I focus on developing industrial-grade control architectures, automation systems, and embedded software at the intersection of hardware and software.
-
-With the system integration discipline I gained from the TEKNOFEST Combat UAV processes and my industrial TwinCAT/PLC experience during my R&D internship at TMEX, I deliver analytical and optimized solutions to real-world engineering problems.
+I am a forward-thinking engineer candidate who effectively utilizes analytical thinking and research skills in the design and integration of complex systems. By taking responsibility in multidisciplinary projects, I focus on the successful completion of tasks with a sharp attention to detail and technical precision. Combining my ability to take individual initiative with a strong adaptability to teamwork, I rapidly adjust to fast-changing technological infrastructures and demanding field conditions.
 
 ## 🛠️ Technical Skills
 
-- **Software & Control:** Python | C# | C | MATLAB & Simulink | Beckhoff TwinCAT
-- **Industrial Automation:** PLC (Ladder Logic) | TIA Portal | SCADA | LabVIEW
-- **Design & Analysis:** SolidWorks | QElectroTech | Ansys (FEA) | Proteus & KiCad
+- **Software & Programming:** Python - C# - C - MATLAB - Simulink - MELFA BASIC V
+- **Automation & Control:** Beckhoff TwinCAT - PLC (Ladder Logic) - LabVIEW - TIA Portal
+- **Design & Hardware:** SolidWorks - Ansys - QElectroTech - Proteus - KiCad
 
 ## 🚀 Key Projects & Experience
 - **TEKNOFEST Combat UAV (BTÜ POYRAZ):** Managed electronic component selection, power distribution, and hardware integration processes for the fixed-wing platform that won the "Best Design" award.
