@@ -9,9 +9,13 @@ I am a forward-thinking engineer candidate who effectively utilizes analytical t
 - **Design & Hardware:** SolidWorks - Ansys - QElectroTech - Proteus - KiCad
 
 ## 🚀 Key Projects & Experience
-- **TEKNOFEST Combat UAV (BTÜ POYRAZ):** Managed electronic component selection, power distribution, and hardware integration processes for the fixed-wing platform that won the "Best Design" award.
-- **Industrial Test Systems (TMEX):** Developed TwinCAT and WPF-based control and HMI software architectures for automotive seat safety test systems.
-- **Academic & Control Projects:** Developed Fuzzy Logic controllers for renewable energy systems and adaptive PID designs.
+
+- **Industrial Test Systems (TMEX) | [cite_start]Jan 2026:** Developed Beckhoff TwinCAT and ADS protocol-based control architectures alongside WPF-based HMI software for automotive seat safety test systems. [cite_start]Co-designed electrical schematics using QElectroTech and executed on-site commissioning processes[cite: 14].
+- **TEKNOFEST Combat UAV (BTÜ POYRAZ) | [cite_start]Sep 2025:** Managed electronic component selection, power distribution networks, and hardware sub-system integration for the fixed-wing UAV platform that achieved the "Best Design" award[cite: 15, 16].
+- **Solar & Grid-Powered EV Charging Station | Jun 2025:** Designed circuit schematics and optimized multi-layer PCB layouts utilizing Proteus and KiCad for a hybrid energy-sourced electric vehicle charging station infrastructure.
+- **Fuzzy Logic Based Solar Panel Energy Computation | Jun 2025:** Developed mathematical models and control algorithms using MATLAB and Simulink to calculate and estimate optimal energy outputs from solar panel systems.
+- **Neural Network for Lung Pneumonia Detection | May 2025:** Built and trained an Artificial Neural Network (ANN) model in Python utilizing image processing techniques to identify pneumonia from medical datasets.
+- **ANSYS Brake Disc Design and Analysis | Jan 2025:** Conducted structural, thermal, and Finite Element Analysis (FEA) using ANSYS to optimize stress distribution and cooling efficiency on mechanical brake disc profiles.
 
 ## 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/yigit-altun](https://linkedin.com/in/yigit-altun)
